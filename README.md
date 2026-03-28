@@ -151,9 +151,3 @@ jupyter notebook
 
 This project is more than just a machine learning pipeline — it’s a step toward **AI-driven healthcare solutions**. By combining data science with medical insights, we aim to contribute to **early detection and better diagnosis** of liver diseases.
 ---
-
-If you want next:
-
-* I can create a **requirements.txt**
-* Add **badges (GitHub stars, license, etc.)**
-* Or make a **portfolio-ready project description** 🚀
