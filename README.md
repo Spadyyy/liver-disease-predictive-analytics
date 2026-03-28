@@ -47,19 +47,12 @@ We performed in-depth analysis to understand data distribution and relationships
 To prepare the dataset for modeling:
 
 * ✅ **Categorical Encoding**
-
   * Gender → Binary encoding (Male = 1, Female = 0)
-
 * ✅ **Missing Value Handling**
-
   * Mean Imputation applied
-
 * ✅ **Feature Scaling**
-
   * Standardization using `StandardScaler`
-
 * ⚖️ **Class Imbalance Handling**
-
   * Used `class_weight='balanced'` in Random Forest
 
 ---
