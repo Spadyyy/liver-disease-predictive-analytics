@@ -136,17 +136,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
----
-
-## 🌟 Future Improvements
-
-* 🔬 Deep Learning models (ANN, CNN)
-* 🌐 Deploy as Web App (Flask/Streamlit)
-* 📱 Real-time clinical prediction system
-* 📊 Advanced feature selection techniques
-
----
-
 ## Conclusion
 
 This project is more than just a machine learning pipeline — it’s a step toward **AI-driven healthcare solutions**. By combining data science with medical insights, we aim to contribute to **early detection and better diagnosis** of liver diseases.
