@@ -1,6 +1,6 @@
 # 🧬 Liver Disease Prediction using Machine Learning (ILPD)
 
-> 🚀 A data-driven healthcare project that leverages Machine Learning to predict liver disease using clinical parameters from the **Indian Liver Patient Dataset (ILPD)**.
+> 🚀 A data-driven healthcare project that leverages Machine Learning to predict liver disease using clinical parameters from the **Indian Liver Patient Dataset (ILPD)**. 
 
 ---
 
